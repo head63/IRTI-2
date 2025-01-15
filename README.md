@@ -1,7 +1,7 @@
 # ITRI_ProJect-
-工研院-數據分析師養成班\
+工研院-數據分析師養成班
 
-Hello!\
+Hello!
 This repository holds my programming projects done period of ITRI College course.
 
 Watch my [demo_video!](https://youtube.com/shorts/BTUeZRKEGhU?feature=share)
